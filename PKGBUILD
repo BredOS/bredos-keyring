@@ -1,7 +1,7 @@
 # Panda <panda@bredos.org>
 
 pkgname=bredos-keyring
-pkgver=20240226
+pkgver=20240126
 pkgrel=1
 pkgdesc='BredOS PGP keyring'
 arch=('any')
