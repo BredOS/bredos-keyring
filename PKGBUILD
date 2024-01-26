@@ -1,11 +1,11 @@
 # Panda <panda@bredos.org>
 
 pkgname=bredos-keyring
-pkgver=20231119
+pkgver=20240226
 pkgrel=1
 pkgdesc='BredOS PGP keyring'
 arch=('any')
-url='https://gitlab.com/BredOS/bredos-keyring'
+url='https://github.com/BredOS/bredos-keyring'
 license=('GPL')
 install="${pkgname}.install"
 source=('Makefile'
